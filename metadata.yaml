@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5730
     wikipedia: http://en.wikipedia.org/wiki/Hezekiah_Butterworth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26442#True-to-His-Home--A-Tale-of-the-Boyhood-of-Franklin
 gutenberg_issued: '2008-08-27'
 gutenberg_type: Text
 identifiers:
